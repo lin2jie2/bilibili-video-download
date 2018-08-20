@@ -3,6 +3,7 @@
 
 # 使用要求
 
+* curl
 * python3
 * requests
 
