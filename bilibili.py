@@ -5,11 +5,10 @@
 # bilibili video url
 
 import sys
-import os
 import json
-import requests
 import re
 import subprocess
+import requests
 
 if __name__ == '__main__':
 	if len(sys.argv) == 1:
